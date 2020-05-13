@@ -1,0 +1,10 @@
+You are at the first part of the corridor 2. In the left there is the Candy session and in the right the fÖrKs session.
+
+p:candy/look candy/left candy/
+	->Go to [Candies]
+p:fÖrKs/forks/look fÖrKs/look forks/right fÖrKs/ right forks/
+	->Go to [fÖrKs]
+p:Foward
+	->Go to []
+p:Back
+	->Go to []

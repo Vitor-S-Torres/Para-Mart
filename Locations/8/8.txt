@@ -1,0 +1,10 @@
+You are in the first section of the corridor 1. At your left the Newspapers stand. At your right the Chips section.
+
+P:newspapers/newspaper/look newspaper/look newspapers/left newspaper/left newspapers
+	->Go to [Newspapers]
+P:chips/look chips/right chips/
+	->Go to [Chips]
+P:foward
+	->Go to []
+P:back
+	->Go to []

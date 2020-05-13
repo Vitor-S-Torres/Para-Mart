@@ -1,0 +1,12 @@
+A pretty ATM is in your front.
+P:Look
+	The atm has a cute pink ribbon over it. It is compatible to your @$(! account
+P:Use/Take/ATM
+	"Ah, yes i need some coins"
+	You show a spoon in the ATM, 10 bills are dropped from the ATM. 
+	You look at the bills, its written 1 Coin and a coin symbol in the center
+	You pick them. You Recieved 10 coin. [Add 10 coin]
+P:Use/Take/ATM
+	"I have no more credit to get more coin"
+Back:
+	Go to [1]

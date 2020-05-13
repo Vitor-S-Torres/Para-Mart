@@ -1,0 +1,16 @@
+You are in the front of the main corridor. At your left there are the corridor 3 and 4. At your right you can see the Lobwitch station. In your front the path splits to the corridor 5 or the drinks corridor.
+
+P:backwards/back
+	->Go to [1]
+P:corridor 3/3/left corridor 3
+	->Go to [12]
+P:corridor 4/4/left corridor 4
+	->Go to [14]
+P:Lobwitch station/station/right/turn right/lobwitch/sandwitch
+	->Go to [18]
+P:corridor 5/5/foward corridor 5/left corridor 5/foward left corridor 5
+	->Go to [3]
+P:drink corridor/drinks corridor/drink/drinks/foward drinks/foward drink/left drink/left drinks/foward left drinks/ foward left drink
+	->Go to [16]
+
+

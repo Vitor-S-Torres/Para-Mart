@@ -1,0 +1,53 @@
+(0)You turn into the grains session, it is filled with transparent dispenser tubes labeled and fulled with the most variable GRAINS:		
+
+	Corn [1 Coin]
+		-You approaches the tube fulled with andl abeled as "Corn", one doze of Corn costs 1 Coin.
+			(Take/Add/) You put the Coin bill in the machine and a doze of corn falls in your Compartiment for Unidimensional Proprieties.[+1 Corn -1 Coin]
+			(Look) You get closer to the label and see a quotation "Go ahead take some corn, or we will sacrifice your newborn!".
+			(Leave/Back) Return to (0)
+	Grainy [3 Coin]
+		-You approaches the tube fulled with and labeled as "Grainy", one doze of Grainy costs 3 Coin.
+			(Take/Add/) You put the Coin bills in the machine. "Manager: OH NO you have freed the G R A I N S" [tv ficando granudala por 10 seg, conquista TV achievement é desbloqueado depois o jogo fecha]
+			(Look) You get closer and [interface fica granulada como tv antiga por 5 segundos].
+			(Leave/Back) Return to (0)
+	Gunpowder [4 Coin] (Explode market)
+	-You approaches the tube fulled with and labeled as "Gunpowder", one doze of Gunpowder costs 4 Coin.
+			(Take/Add/) You put the Coin bills in the machine and a doze of gunpowder falls in your C.U.P. .[+1 Gunpowder -4 Coin]
+			(Look) You get closer to the label and see a quotation "Warning! Explosive, handle with love".
+			(Leave/Back) Return to (0)
+	Nuts (+2)
+	-You approaches the tube fulled with and labeled as "Nuts", one doze of Nuts costs 2 Coin.
+			(Take/Add/) You put the Coin bills in the machine and a doze of Nuts falls in your C.U.P. .[+1 Nuts -2 Coin]
+			(Look) You get closer to the label and see a quotation "Deez Nuts".
+			(Leave/Back) Return to (0)
+	Oats (+2) (PIG)
+		-You approaches the tube fulled with and labeled as "Nuts", one doze of Oats costs 2 Coin.
+			(Take/Add/) You put the Coin bills in the machine and a doze of Oats falls in your C.U.P. .[+1 Oats -2 Coin]
+			(Look) As you get closer you start feeling a %$%#QR¨%RQS@W sensation.
+			(Leave/Back) Return to (0)
+	Polyhedrons (+3) (Reality)
+	-You approaches the tube fulled with and labeled as "Polyhedrons", one doze of Polyhedrons costs 3 Coin.
+			(Take/Add/) You put the Coin bills in the machine and a doze of Polyhedrons falls in your C.U.P. .[+1 Polyhedrons -3 Coin]
+			(Look) As you get closer you smell the sense of power.
+			(Leave/Back) Return to (0)
+	Rice [R-Ice] (+2)
+	-You approaches the tube fulled with and labeled as "R-ice", one doze of Rice costs 2 Coin.
+			(Take/Add/) You put the Coin bills in the machine and a doze of Ice falls in your C.U.P. .[+1 R-Ice -2 Coin]
+			(Look) You get closer look at the label and it says "Rated Ice".
+			(Leave/Back) Return to (0)
+	Sand (+1) (Sand + Bread Blue + Lobster =  PERFECT SANDWITCH achievement)
+	-You approaches the tube fulled with and labeled as "Sand", one doze of Sand costs 1 Coin.
+			(Take/Add/) You put the Coin bills in the machine and a doze of Sand falls in your C.U.P. .[+1 Sand -1 Coin]
+			(Look) You get closer look at the label and it says "Rated Ice".
+			(Leave/Back) Return to (0)
+	Sugar (+1)
+	-You approaches the tube fulled with and labeled as "Sugar", one doze of Rice costs 1 Coin.
+			(Take/Add/) You put the Coin bills in the machine and a doze of Sugar falls in your C.U.P. .[+1 Sugar -1 Coin]
+			(Look) You get closer look at the label and it says "Please keep it away from dads".
+			(Leave/Back) Return to (0)
+	Wheat (+2)
+	-You approaches the tube fulled with and labeled as "Wheat", one doze of Wheat costs 2 Coin.
+			(Take/Add/) You put the Coin bills in the machine and a doze of Wheat falls in your C.U.P. .[+1 Sugar -2 Coin]
+			(Look) You get closer look at the label and it says "9/10 farmers recommend wheat, the 1 died by the 9 farmers".
+			(Leave/Back) Return to (0)
+

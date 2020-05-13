@@ -1,0 +1,23 @@
+You are in entrance of the main corridor that extends in your front. On your left you can see an ATM and the corridors 1 and 2. On your right you see the counter with the cashier.
+
+P:Turn left/left
+Corridor 1 or Corridor 2?
+	P:1/Corridor 1/left corridor 1
+ 	->Go to [8]
+	P:2/Corridor 2/left corridor 2
+	->Go to [10]
+P:corridor 1/ left corridor 1
+	->Go to [8]
+P:corridor 2/ left corridor 2
+	->Go to [10]
+P:ATM/use ATM/look ATM/left ATM
+	->Go to ATM [ATM]
+P:Cashier/use cashier/look cashier/right/right cashier/Counter/use counter/look counter/right counter/
+	->Go to Cashier [19]
+P:Foward/main Corridor/foward main corridor
+	->Go to [2]
+P:Corridor
+	->Witch one? It would be better if you specify 
+	-> return texto
+P:Back/Backwards
+	->Go to [0]

@@ -1,0 +1,38 @@
+Digitar coisas não registradas ou fora de possibilidade:
+1- I'm sorry player. I'm afraid i cannot do that. ->
+2- All systems ready! Deplyoing command! . . . error player typed something invalid! ->
+3- I will pretend that was never typed. Check your spelling next time ->
+4- Error 404: Player's intelligence not found. Try typing something else -> 
+5- Impossible, perhaps the archives are incomplete. We might not have a propper, try something else. ->
+
+Após 3 erros seguidos:
+Feeling lost? Don't panic! Just type "help" to see the command list. ->
+
+Ecrever Cart ao invés de Kart
+1- What are you doing!? The correct is Kart! Now go back to the road before one of the wheels breack! ->
+
+Enviar texto vazio:
+1-The V O I D returns your call: (blank) ->
+
+Andar reto onde não dá:
+1- I am not a (glitch tela) %#¨@($_s! I cannot go trough walls! ->
+
+Virar pra esquerda onde não dá:
+1- 
+
+Virar para direita onde não dá:
+1- "It shouldn't be right. This must be the wrong way." ->
+
+Andar para trás onde não dá: (?)
+1-"Look at me! I'm #####walking! ->
+
+Usar coisas que não podem ser usadas:
+1- "Maybe another day..." ->
+
+Combinar coisas que não podem ser combinadas:
+1- "Just like my sex life, they're never getting along." ->
+
+Pegar objetos impegáveis:
+1-STOONP!!! I AM THE RINOCEROSS OF THE GAME DEVELOPER AND YOU MUST NOT TAKE IT OR ELSE YOU SHALL SEE YOUR DESKTOP! ->
+Se tentar pegar o mesmo objeto com menos de 3 interações de diferença:
+1.5-I WARNED YOU F O O O L!(cada letra vai se distanciando) TAKE THAT! [fecha o jogo.]

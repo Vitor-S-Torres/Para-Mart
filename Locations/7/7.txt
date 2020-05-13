@@ -1,0 +1,10 @@
+You are in the second half ot the corridor 1, at your left the Magazines stand and at your right the Patents and Copyrights section.
+
+P:magazines/look magazines/left magazines/left
+	->Go to [magazines]
+P:patents/look patents/right patents/copyrights/look copyrights/right copyrights/patents and copyrights/look patents and copyrights/right patents and copyrights/right
+	->Go to [patents and copyrights]
+P:Back
+	->Go to [ ]
+P:Foward
+	->Go to [ ]

@@ -1,0 +1,12 @@
+You are at the second half of the corridor 2. At your left there is a section with a Button and a section full of Books. At your right the Flop Disks section.
+
+P:button/look button/left button
+	->Go to [button]
+P:books/look books/left books
+	->Go to [books]
+P:flop/flop disks/disks/look flop/look flop disks/look disks/left flop disks/left flop/left disks
+	->Go to [flop disks]
+p:foward
+	->Go to []
+p:foward
+	->Go to []

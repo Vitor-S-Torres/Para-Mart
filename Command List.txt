@@ -1,0 +1,15 @@
+-Command List:
+"foward" - you move foward
+"back" - you move back/return to previous section
+"left" - you turn left
+"right" - you turn right
+"Object name" - you approaches the object
+"look" - you look at the object
+"use" - you use the object
+"take" - you take the object
+"combine" - you can combine two objects from the inventory
+"Kart" - you check your inventory
+"Menu" - open game menu
+"Achievements" -show achievement list
+"Help" - you check the command list
+Custom text - you can try to see if something happens

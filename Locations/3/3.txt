@@ -1,0 +1,18 @@
+You are in the first half of the corridor 5. At your left you can see the Vegan Food section. At your right you can see a big pinky P I G walinking in the corridor.
+
+P:Foward/Front
+	->Go to [4]
+
+P:left/left vegan/ left vegan food/vegan/vegan food/turn left/look vegan/look vegan food/
+	->Go to [vegan food]
+
+P:pig/P I G/right/turn right/look P I G/look pig/
+	->Go to [pig]
+P:Back
+	->Would you like to go to the Drinks Corridor or the Main Corridor? Type Back again to cancel.
+	P:Drink/drinks corridor/drink corridor
+		->Go to [16]
+	P:Main/main corridor/back main corridor
+		->Go to [2]
+	P:Back
+		->Return to top

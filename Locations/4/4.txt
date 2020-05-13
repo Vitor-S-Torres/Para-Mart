@@ -1,0 +1,15 @@
+You are in the second half of the corridor 5, in your left there is the Credits Section. In your right there are two doors with signs, the first has a (idk) and the second the symbol of a #ffffff Toilet. The path ends with a turn to the left leading to the frozens corridor
+
+p:#ffffff/look #ffffff/turn right #ffffff/right #ffffff
+	->Go to [Locked Door]
+p:
+	->Go to [Portal transdimencional]
+
+p:look credits/look credits section/credits/credits section/left credits/left credits selection
+	->Go to [Credits Section]
+
+p:foward/left/5/corridor (cold)/foward corridor (cold)
+	->Go to [5]
+
+p:back
+	->Go to [3]

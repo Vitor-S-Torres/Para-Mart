@@ -1,0 +1,10 @@
+You are in the first part of the corridor 3. At your left the Grains section, at your right the flags section.
+
+p:grains/look grains/left grains
+	->Go to [grains]
+p:flags/look flags/right flags
+	->Go to [flags]
+p:foward
+	->Go to
+p:back
+	->Go to

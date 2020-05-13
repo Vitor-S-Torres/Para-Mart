@@ -1,0 +1,58 @@
+0-To buy list	(check) "What do i want to by...i should "Use" it whenever i forgett.
+		(Use) Lists the items he has to buy (no arquivo: lista de compras)
+
+1-Corn	(No combinations)
+	(Check) "A doze of corn, the favourite food of Cornels"
+	(Use) You eat the corn, as your mind expands to the &@#$ dimension and starts having flashbacks from the Battle of Mush | As you wake up you are cornered with corn [Move plater to corridor 5 corn]
+
+2- Gunpowder (Can combine 3stuff Gunpowder+X=Explosive mix, Gunpowder+y=igniter)
+	(Check) A g'old Chinese powder
+	(Use) Player: "I shouldn't use it alone" 
+
+3- Nuts (No combinations)
+	(Check) Deez nuts!
+	(Use) Staff: HEY! STONP NUTTING HERE! YOU SHOULD BE ASHAMED! 
+
+4- Oats (No combinations) (will be used to give to the P I G)
+	(Check)Player: "Just some oats, why did a bought this stuff?"
+	(Use) You eat your oats whitout any issue
+
+5- Polyhedrons (No combinations) (will be used in the tribunal)
+	(Check)Player: "Just some oats, why did a bought this stuff?"
+	(Use) You eat your oats whitout any issue
+
+6- R-Ice (No combinations) (will be used in the slushie machine)
+	(Check) You feel moisten
+	(Use)Player: "Oh no... it is too I C E D to touchh"
+
+7- Sand (Can be used to make the Sandwitch: Bread Blue+Lobster+Any sauce+ Sand)
+	(Check)Player: "So and?"
+	(Use) Player: "I souldn't use it alone"
+
+8- Sugar (No combination)
+	(Check)Player: Ah yes, sugar the %%#$ in the food chain
+	(Use) As you eat the sugar, chains appears and restrain you.
+	Player:"Oh no i have violated the food chain"
+	Chain: You must CONSUME something to save you from a chain of problems.
+		-Chain: You consume the chain, and now you can access the secret chainber.
+		(...)
+		(Other things) Chain: You cannot chainge your mistakes. Time to enter in a chain of problems. You will be turned into a chain.
+				Narrator: When you look at the chain you are transformed into a chainsaw
+				Player: Oh no... i saw the chain. [Game Over]
+
+9-Wheat (No combinations)
+	(Check)Player: Wheat, it came from whater
+	(Use)Player:Why would whI bhuy wheat!?
+
+10-Slushie (Win condition)
+	   (Check) Player: Ah yes finally my drincc
+	   (Use) Player: I should pay first
+
+11-Lobwitch (Win condition)
+	   (Check) Player: Lob, loob, lobwitch
+	   (Use) Player: I should pay first
+
+12-Marble (Win condition)
+	  (Check) Player: My favourite canned rocj
+	  (Use) Player: I should pay first
+

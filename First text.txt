@@ -1,0 +1,35 @@
+Hello and welcome to XXXX, a game about going into a convenience store in a surreal enviroment.
+You can use the commands "foward" "back" "left" "right" to move. You can say the name of a object withing range
+to further interact with it,"look" to gain detais of the object, "take" to take the the object and "back" to return
+to previous section.
+You also have an invetory that runs by the command "Kart", where you can "look" "use" or "combine", you start with a
+list of things to buy, your objective is to complete the list and checkout.
+You can try other commands but not every posssibility due to the creator's laziness won't be considerated.
+If you forget a command you can always type "help" to appear the command list.
+Say "Hello world" to start the game.
+
+
+-Command List:
+"foward" - you move foward
+"back" - you move back/return to previous section
+"left" - you turn left
+"right" - you turn right
+"Object name" - you approaches the object
+"look" - you look at the object
+"use" - you use the object
+"take" - you take the object
+"combine" - you can combine two objects from the inventory
+"Kart" - you check your inventory
+"Menu" - open game menu
+"Achievements" -show achievement list
+"Help" - you check the command list"
+Custom text - you can try to see if something happens
+
+-If player types "Custom text" 
+	-"Thats not how you supposed to do it, whatever funnyman here's your achievement. Now type a propper command! [achievement "funnyman"]
+
+-If player types "Custom text" tiwce:
+	-"Okay that's the second time and your final warning! Type a propper command or it will be over!
+
+-If player types "Custom text" third:
+	-"Allright strike three, youre out!" [ahievement "strikeout" and closes game]

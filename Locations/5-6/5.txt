@@ -1,0 +1,14 @@
+You are at the second half of the fridges corridor. At your (X) you can see many FUNGUS inside the frige, and also the alchoolic beverages being blocked by a midget wearing a suit behind with the name tag "Mirmim" a free sample stand. At your (X) you can see the corridor 3 and 4.
+
+P:FUNGUS/Fungus/look fungus/look FUNGUS/
+	->Go to [FUNGUS]
+P:Sample/look sample/free sample/look free sample/Mirmim/look mirmim/beverages/look beverages/alchoolic/look alchoolic/look alchoolic beverages/alchoolic beverages
+	->Go to [mirmim]
+P:Corridor 3/3/
+	->Go to [11]
+P:Corridor 4/4/
+	->Go to [13]
+P:Back
+	->Go to []
+P:Foward
+	->Go to []
