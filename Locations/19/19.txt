@@ -1,0 +1,8 @@
+You are at the checkout counter, at your front the Cashier, at your left the entrance of the main corridor. At your right the Slushies Corridor.
+
+P:checkout/cashier/checkout counter/look checkout/use checkout/look cashier/use cashier
+	->Go to [Cashier]
+p:slushie corridor/right/slushie/right slushie corridor/right corridor/
+	->Go to [18]
+p:main corridor/left/left main corridor/left corridor
+	->Go to [1]

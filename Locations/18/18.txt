@@ -1,0 +1,15 @@
+You are at the lobwitch sation. A talking sign asks you: 
+"Would you like yo make a lobwitch?"
+
+P:y/yes/lobwitch/affirmative
+	->Go to [lobwitch]
+P:n/no/negative/back
+	->"No worries come back wherever you want!" You can return to: Main Corridor, Slushie Corridor, Checkout.
+P:back
+	->Go to []
+P:Main Corridor
+	->Go to [2]
+P:Slushie Corridor
+	->Go to [17]
+P:Checkout
+	->Go to [19]

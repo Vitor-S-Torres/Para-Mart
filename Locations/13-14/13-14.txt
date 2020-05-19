@@ -1,0 +1,22 @@
+You are in the corridor 4.The corridor is fulfilled with Bricks of various Colours but with the same shape. In the middle there is a Child with a helicopter hat and holding a ballon.
+ 
+p:child/look child/foward child/ballon/
+	->Go to [child]
+p:bricks/look bricks/
+	->Go to [bricks]
+p:foward
+	->Go to
+p:back
+	->Go to
+
+	[Bricks]: You see all the colours of bricks, you read a disclaimer "Before you eat: mixing brick colours might have serious consequêncies! Careful" the list of available colours are respectivelly
+	Black Bricks, Dark Blue Bricks, Red Bricks, Purple Bricks, Orange Bricks, Blue Bricks, Yellow Bricks, Light Blue Bricks, Pink Bricks and White Bricks
+	Each Brick costs 1 Coin.
+	
+	p:look brick (colour)
+		The brick contains the colour (colour) and a signature "Mr Brick-e-roo!" in the middle.
+	p:take brick (colour)
+		Tou take a (colour) brick [+1 coin added to bill] it is now in your Kart.
+		->Return to [Bricks]
+		
+	

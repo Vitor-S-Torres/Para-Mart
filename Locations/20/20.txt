@@ -1,0 +1,20 @@
+As you enter the room, there is an emptness of white. In the middle a golden pedestal perfectly built to hold the E G G.
+
+P:look egg
+	->A white shining simple E G G
+p:look pedestal
+	->A golden handmade stand signed with "Congratulations player you found the E G G"
+p:take egg
+	->You take the E G G! [+ E G G to kart] [no more egg to take]
+	The place now has only the pedestal.
+	p:Back
+		->As you leave the door dissapears and you are at the corridor 5
+		->Go to [4ne]		 
+
+p:Take pedestal
+	->A misterious voice echoes: "YOU FOOL THE PEDESTAL STANDS! YOU TAKE THE E G G AND LEAVE!
+	p:Take pedestal
+		-> NO MORE FOOLING AROUND UNGRATEFUL PLAYER! DO YOU KNOW HOW MANY PEOPLE ARE TRYING TO FIND THE E G G!? AND YOU ARE HERE TAKING THE PEDESTAL AS WELL!!! HOW WOULD I PUT THE EGG FOR THE NEXT PLAYER!?
+		   A hovering boot appearss and kicks your ass out of the the room. 
+		->After you got kicked the door dissapears and you are at the corridor 5
+		  Go to [4ne]

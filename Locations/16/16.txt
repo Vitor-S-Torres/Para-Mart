@@ -1,0 +1,19 @@
+You are at the drinks corridor. You can see three different pop machines at your right:Coala flavour, Busy Doctor and Wet French.
+The end of the path goes to a corner that turns Left leading to Slushie Machines.
+
+p: Right/pop/machines/pop machines/right pop/right machines/
+	->Wich machine would you like to interact with? <down line> Coala flavour, Busy Doctor or Wet French?
+	p:Coala flavour
+		->Go to [Coala Flavour]
+	p:Busy Doctor
+		->Go to [Busy Doctor]
+	p:Wet French
+		->Go to [Wet French]
+p:Left/Corner/Slushie/Slushie Machines/Left Slushie Machines
+	->Go to [17]
+
+Back	
+	->Go to []
+
+Foward
+	->Go to []

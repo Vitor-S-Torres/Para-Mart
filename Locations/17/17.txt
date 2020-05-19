@@ -1,0 +1,10 @@
+You are in the second corner of the drinks corridor. At your right the Slushie machines. You can see the Lobwtich station at the end of the corridor.
+
+P:slushie machines/slushie/right/right slushie machines
+	->Go to [Slushie machines]
+P:Lobwitch/lobwitch station/station/end of the corridor?/
+	->Go to [18]
+P:Foward
+
+P:left/turn left/drink corridor/drink machines/
+	->Go to [16]
